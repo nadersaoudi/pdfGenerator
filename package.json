@@ -1,0 +1,24 @@
+{
+  "name": "pdfgenerator",
+  "version": "1.0.0",
+  "description": "this componenet able to generate or convert html to pdf",
+  "private":"true",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pdf",
+    "convert",
+    "async",
+    "await",
+    "generate"
+  ],
+  "author": "Nader SAOUDI",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rynix-coder/pdfGenerator"
+  }
+
+}
